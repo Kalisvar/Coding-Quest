@@ -10,11 +10,11 @@ class Solution {
             }
             else
             {   
+              count = 0;
+            }
              maxCount = Math.max(maxCount,count);
-             count = 0;
-              }
          }
-        maxCount = Math.max(maxCount,count);
+
         return maxCount ;
         
     }
