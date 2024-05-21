@@ -25,7 +25,7 @@ class Solution {
                     element = nums[i];
                     cnt = 1;
                 }
-               else  if(element == nums[i])
+               else if(element == nums[i])
                 {
                     cnt ++;
                 }
