@@ -21,8 +21,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Kalisvar/Coding-Quest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kalisvar/Coding-Quest/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Kalisvar/Coding-Quest/tree/master/1610-xor-operation-in-an-array) |
+| [2507-number-of-common-factors](https://github.com/Kalisvar/Coding-Quest/tree/master/2507-number-of-common-factors) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kalisvar/Coding-Quest/tree/master/1435-xor-queries-of-a-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Kalisvar/Coding-Quest/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Kalisvar/Coding-Quest/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
