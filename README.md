@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Kalisvar/Coding-Quest/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Kalisvar/Coding-Quest/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Kalisvar/Coding-Quest/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kalisvar/Coding-Quest/tree/master/0172-factorial-trailing-zeroes) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Kalisvar/Coding-Quest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kalisvar/Coding-Quest/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kalisvar/Coding-Quest/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kalisvar/Coding-Quest/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Kalisvar/Coding-Quest/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kalisvar/Coding-Quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kalisvar/Coding-Quest/tree/master/0745-find-smallest-letter-greater-than-target) |
