@@ -12,13 +12,12 @@ class Solution {
                 return m;
             }
             else if((long)m*m < x){
-                whole = m;
                 start = m + 1;
             }
             else if((long)m*m > x){
                 end = m -1;
             }
         }
-        return whole;
+        return end;
     }
 }
