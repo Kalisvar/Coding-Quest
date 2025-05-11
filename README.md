@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kalisvar/Coding-Quest/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Kalisvar/Coding-Quest/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Kalisvar/Coding-Quest/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Kalisvar/Coding-Quest/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kalisvar/Coding-Quest/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Kalisvar/Coding-Quest/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kalisvar/Coding-Quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kalisvar/Coding-Quest/tree/master/0745-find-smallest-letter-greater-than-target) |
