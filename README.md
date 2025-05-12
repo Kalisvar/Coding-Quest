@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kalisvar/Coding-Quest/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/Kalisvar/Coding-Quest/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Kalisvar/Coding-Quest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kalisvar/Coding-Quest/tree/master/1435-xor-queries-of-a-subarray) |
 | [1610-xor-operation-in-an-array](https://github.com/Kalisvar/Coding-Quest/tree/master/1610-xor-operation-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kalisvar/Coding-Quest/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kalisvar/Coding-Quest/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kalisvar/Coding-Quest/tree/master/0172-factorial-trailing-zeroes) |
+| [0342-power-of-four](https://github.com/Kalisvar/Coding-Quest/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Kalisvar/Coding-Quest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kalisvar/Coding-Quest/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Kalisvar/Coding-Quest/tree/master/1610-xor-operation-in-an-array) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/0074-search-a-2d-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Kalisvar/Coding-Quest/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
