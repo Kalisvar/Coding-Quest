@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Kalisvar/Coding-Quest/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Kalisvar/Coding-Quest/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kalisvar/Coding-Quest/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/Kalisvar/Coding-Quest/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kalisvar/Coding-Quest/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/Kalisvar/Coding-Quest/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Kalisvar/Coding-Quest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Kalisvar/Coding-Quest/tree/master/0342-power-of-four) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/Kalisvar/Coding-Quest/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
