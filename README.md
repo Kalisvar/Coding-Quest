@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Kalisvar/Coding-Quest/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Kalisvar/Coding-Quest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0910-nth-magical-number](https://github.com/Kalisvar/Coding-Quest/tree/master/0910-nth-magical-number) |
+| [1013-fibonacci-number](https://github.com/Kalisvar/Coding-Quest/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kalisvar/Coding-Quest/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Kalisvar/Coding-Quest/tree/master/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/Kalisvar/Coding-Quest/tree/master/2383-add-two-integers) |
@@ -68,8 +69,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Kalisvar/Coding-Quest/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Kalisvar/Coding-Quest/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Kalisvar/Coding-Quest/tree/master/0168-excel-sheet-column-title) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kalisvar/Coding-Quest/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kalisvar/Coding-Quest/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
