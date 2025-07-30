@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kalisvar/Coding-Quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kalisvar/Coding-Quest/tree/master/0162-find-peak-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kalisvar/Coding-Quest/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Kalisvar/Coding-Quest/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kalisvar/Coding-Quest/tree/master/1435-xor-queries-of-a-subarray) |
 ## Bit Manipulation
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Kalisvar/Coding-Quest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0910-nth-magical-number](https://github.com/Kalisvar/Coding-Quest/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/Kalisvar/Coding-Quest/tree/master/1013-fibonacci-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Kalisvar/Coding-Quest/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kalisvar/Coding-Quest/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Kalisvar/Coding-Quest/tree/master/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/Kalisvar/Coding-Quest/tree/master/2383-add-two-integers) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Kalisvar/Coding-Quest/tree/master/1013-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Kalisvar/Coding-Quest/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
