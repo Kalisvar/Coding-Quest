@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kalisvar/Coding-Quest/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Kalisvar/Coding-Quest/tree/master/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/Kalisvar/Coding-Quest/tree/master/2383-add-two-integers) |
+| [2496-count-days-spent-together](https://github.com/Kalisvar/Coding-Quest/tree/master/2496-count-days-spent-together) |
 | [2507-number-of-common-factors](https://github.com/Kalisvar/Coding-Quest/tree/master/2507-number-of-common-factors) |
 ## Prefix Sum
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Kalisvar/Coding-Quest/tree/master/0168-excel-sheet-column-title) |
+| [2496-count-days-spent-together](https://github.com/Kalisvar/Coding-Quest/tree/master/2496-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
