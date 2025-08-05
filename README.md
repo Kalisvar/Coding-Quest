@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-nth-magical-number](https://github.com/Kalisvar/Coding-Quest/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/Kalisvar/Coding-Quest/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/Kalisvar/Coding-Quest/tree/master/1260-day-of-the-year) |
+| [1279-prime-arrangements](https://github.com/Kalisvar/Coding-Quest/tree/master/1279-prime-arrangements) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Kalisvar/Coding-Quest/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kalisvar/Coding-Quest/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Kalisvar/Coding-Quest/tree/master/1610-xor-operation-in-an-array) |
