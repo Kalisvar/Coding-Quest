@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kalisvar/Coding-Quest/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Kalisvar/Coding-Quest/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kalisvar/Coding-Quest/tree/master/1435-xor-queries-of-a-subarray) |
+| [1480-running-sum-of-1d-array](https://github.com/Kalisvar/Coding-Quest/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Kalisvar/Coding-Quest/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kalisvar/Coding-Quest/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kalisvar/Coding-Quest/tree/master/1435-xor-queries-of-a-subarray) |
+| [1480-running-sum-of-1d-array](https://github.com/Kalisvar/Coding-Quest/tree/master/1480-running-sum-of-1d-array) |
 ## Enumeration
 |  |
 | ------- |
