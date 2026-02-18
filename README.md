@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/Kalisvar/Coding-Quest/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kalisvar/Coding-Quest/tree/master/1435-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/Kalisvar/Coding-Quest/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Kalisvar/Coding-Quest/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Kalisvar/Coding-Quest/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kalisvar/Coding-Quest/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Kalisvar/Coding-Quest/tree/master/1672-richest-customer-wealth) |
 ## Recursion
 |  |
 | ------- |
