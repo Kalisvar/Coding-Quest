@@ -12,11 +12,14 @@ class Solution {
         //     }
         // }
 
-        for(int i=0;i<nums.length;i++){
-            ans[i] = nums[i];
-            ans[i+n] = nums[i];
-        }
+        // for(int i=0;i<nums.length;i++){
+        //     ans[i] = nums[i];
+        //     ans[i+n] = nums[i];
+        // }
 
+// using inbuilt array  functions
+System.arraycopy(nums,0,ans,0,nums.length);
+System.arraycopy(nums,0,ans,nums.length,nums.length);
         return ans;
     }
 }
