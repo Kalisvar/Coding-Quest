@@ -1,7 +1,6 @@
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         List<Boolean> result = new ArrayList<>();
-        int maxCandies = 0;
         // for(int i = 0;i<n;i++){
         //     if(temp[i] > maxCandies){
         //         maxCandies = temp[i];
@@ -10,18 +9,12 @@ class Solution {
         // for(int i=0;i<n;i++){
         //     result.add(((temp[i]+extraCandies)>= maxCandies));
         // }
+        // using stream api to find the maximum element in the array
+        int maxCandies = Arrays.stream(candies).max().getAsInt();
+        for(int elemnt : candies){
+            result.add(((elemnt+extraCandies)>= maxCandies));
+        }
 
-        for(int element : candies){
-            maxCandies = Math.max(element,maxCandies);
-        }
-         for(int element : candies){
-            if((element + extraCandies) >= maxCandies ){
-                result.add(true);
-            }
-            else {
-                result.add(false);
-            }
-        }
         return result; 
     }
 }
