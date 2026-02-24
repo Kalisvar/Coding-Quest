@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Kalisvar/Coding-Quest/tree/master/0168-excel-sheet-column-title) |
 | [1260-day-of-the-year](https://github.com/Kalisvar/Coding-Quest/tree/master/1260-day-of-the-year) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kalisvar/Coding-Quest/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2496-count-days-spent-together](https://github.com/Kalisvar/Coding-Quest/tree/master/2496-count-days-spent-together) |
 ## Dynamic Programming
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalisvar/Coding-Quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Kalisvar/Coding-Quest/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kalisvar/Coding-Quest/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
 | ------- |
