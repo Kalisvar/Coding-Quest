@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Kalisvar/Coding-Quest/tree/master/0162-find-peak-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kalisvar/Coding-Quest/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Kalisvar/Coding-Quest/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Kalisvar/Coding-Quest/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalisvar/Coding-Quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kalisvar/Coding-Quest/tree/master/1389-create-target-array-in-the-given-order) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Kalisvar/Coding-Quest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0910-nth-magical-number](https://github.com/Kalisvar/Coding-Quest/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/Kalisvar/Coding-Quest/tree/master/1013-fibonacci-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-day-of-the-year](https://github.com/Kalisvar/Coding-Quest/tree/master/1260-day-of-the-year) |
 | [1279-prime-arrangements](https://github.com/Kalisvar/Coding-Quest/tree/master/1279-prime-arrangements) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Kalisvar/Coding-Quest/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Kalisvar/Coding-Quest/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kalisvar/Coding-Quest/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Kalisvar/Coding-Quest/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kalisvar/Coding-Quest/tree/master/1929-concatenation-of-array) |
