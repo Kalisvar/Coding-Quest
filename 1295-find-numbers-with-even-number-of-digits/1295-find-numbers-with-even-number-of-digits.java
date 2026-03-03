@@ -1,16 +1,25 @@
 public class Solution {
 
     public int findNumbers(int[] nums) {
+        // int count = 0;
+
+        // for (int i = 0; i < nums.length; i++) {
+        //     int val = countDigit(nums[i]);
+
+        //     if (val % 2 == 0) {
+        //         count++;
+        //     }
+        // }
+
+        // return count;
+
         int count = 0;
-
-        for (int i = 0; i < nums.length; i++) {
-            int val = countDigit(nums[i]);
-
-            if (val % 2 == 0) {
-                count++;
+        for(int num:nums){
+            int length = String.valueOf(num).length();
+            if(length % 2 == 0){
+                count ++;
             }
         }
-
         return count;
     }
 
