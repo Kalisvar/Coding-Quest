@@ -15,8 +15,8 @@ public class Solution {
 
         int count = 0;
         for(int num:nums){
-            int length = String.valueOf(num).length();
-            if(length % 2 == 0){
+            // int length = String.valueOf(num).length();
+            if((int)Math.log10(num )% 2==1){
                 count ++;
             }
         }
