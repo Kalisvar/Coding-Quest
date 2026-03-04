@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Kalisvar/Coding-Quest/tree/master/0162-find-peak-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kalisvar/Coding-Quest/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Kalisvar/Coding-Quest/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kalisvar/Coding-Quest/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Kalisvar/Coding-Quest/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Kalisvar/Coding-Quest/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Kalisvar/Coding-Quest/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Kalisvar/Coding-Quest/tree/master/1672-richest-customer-wealth) |
 ## Recursion
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Kalisvar/Coding-Quest/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kalisvar/Coding-Quest/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Kalisvar/Coding-Quest/tree/master/1920-build-array-from-permutation) |
