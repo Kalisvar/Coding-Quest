@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kalisvar/Coding-Quest/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Kalisvar/Coding-Quest/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/0867-transpose-matrix) |
+| [0989-add-to-array-form-of-integer](https://github.com/Kalisvar/Coding-Quest/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kalisvar/Coding-Quest/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Kalisvar/Coding-Quest/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Kalisvar/Coding-Quest/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Kalisvar/Coding-Quest/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0910-nth-magical-number](https://github.com/Kalisvar/Coding-Quest/tree/master/0910-nth-magical-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/Kalisvar/Coding-Quest/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Kalisvar/Coding-Quest/tree/master/1013-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kalisvar/Coding-Quest/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-day-of-the-year](https://github.com/Kalisvar/Coding-Quest/tree/master/1260-day-of-the-year) |
